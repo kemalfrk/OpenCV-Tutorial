@@ -1,1 +1,1 @@
-# OpenCV Workshop - Gazi University
+# OpenCV Tutorial - Gazi University
